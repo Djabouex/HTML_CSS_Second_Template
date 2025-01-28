@@ -89,16 +89,13 @@ Let’s make the next template even better! 😊
 ## Support Me
 If you find this project useful or inspiring, consider supporting me with a donation:
 
-### Bitcoin (BTC):
-![Bitcoin Icon](https://via.placeholder.com/20) **Bitcoin Address:**  
+![Bitcoin Icon](bitcoin.svg) **Bitcoin Address:**  
 `bc1q3smxjtjesh3km3rl0y89nyg964esdjkkmtwyhm`  
 
-### Ethereum (ETH):
-![Ethereum Icon](https://via.placeholder.com/20) **Ethereum Address:**  
+![Ethereum Icon](ethereum.svg) **Ethereum Address:**  
 `0x891c40D9ac520DC6c8827eDD744ee15c472e88Ff`  
 
-### USDT (ERC-20):
-![USDT Icon](https://via.placeholder.com/20) **USDT Address:**  
-`0x891c40D9ac520DC6c8827eDD744ee15c472e88Ff`  
+![USDT Icon](usdt.svg) **USDT Address:**  
+`0x891c40D9ac520DC6c8827eDD744ee15c472e88Ff`
 
 💖 **Thank you for your support!**
