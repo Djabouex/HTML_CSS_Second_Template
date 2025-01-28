@@ -67,7 +67,6 @@ Improved video presentations and subtle visual effects (e.g., parallax scrolling
 ### Planned Improvements:
 - Further enhancements to responsiveness, especially for ultra-wide and very small screens.
 - Addition of more interactive features, such as sliders, modals, or dynamic content loading.
-- Exploration of CSS frameworks (e.g., Bootstrap) or preprocessors (e.g., SASS) to streamline development.
 
 ### Goal:
 To continue refining my skills and delivering even better designs in future iterations.
@@ -78,7 +77,6 @@ To continue refining my skills and delivering even better designs in future iter
 This project is a reflection of my growth as a web developer, and I’m always looking to improve. If you have any feedback, suggestions, or ideas for the next version, feel free to:
 
 - Open an issue on GitHub.
-- Contact me directly via email.
 
 Let’s make the next template even better! 😊
 
