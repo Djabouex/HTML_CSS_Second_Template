@@ -1,13 +1,11 @@
 # HTML &amp; CSS Design Template - Second Version
 
-![Web Design](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAwIiBoZWlnaHQ9IjQwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgODAwIDQwMCI+CiAgPHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgZmlsbD0iIzRDQUY1MCIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiBkb21pbmFudC1iYXNlbGluZT0ibWlkZGxlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjQ4IiBmaWxsPSIjZmZmZmZmIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiPgogICAgV2ViIERlc2lnbiBUZW1wbGF0ZQogIDwvdGV4dD4KPC9zdmc+) <!-- صورة SVG للويب -->
-
-**Live Preview:** [Click here to view the website live](https://djabouex.github.io/HTML_CSS_Second_Template/)
+## About This Project
+This project is the second iteration of my HTML & CSS design templates. It reflects my ongoing journey in web development, showcasing improvements in design, responsiveness, and interactivity compared to the first version.
 
 ---
 
-## About This Project
-This project is the second iteration of my HTML & CSS design templates. It reflects my ongoing journey in web development, showcasing improvements in design, responsiveness, and interactivity compared to the first version.
+**Live Preview:** [Click here to view the website live](https://djabouex.github.io/HTML_CSS_Second_Template/)
 
 ---
 
@@ -90,15 +88,15 @@ Let’s make the next template even better! 😊
 If you find this project useful or inspiring, consider supporting me with a donation:
 
 ### Bitcoin (BTC):
-![Bitcoin Icon](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgMTAwIDEwMCI+CiAgPGNpcmNsZSBjeD0iNTAiIGN5PSI1MCIgcj0iNDUiIGZpbGw9IiNGRjk4MDAiLz4KICA8dGV4dCB4PSI1MCUiIHk9IjUwJSIgZG9taW5hbnQtYmFzZWxpbmU9Im1pZGRsZSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSI0MCIgZmlsbD0iI2ZmZmZmZiIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIj4KICAgIMKkCiAgPC90ZXh0Pgo8L3N2Zz4=) **Bitcoin Address:**  
+**Bitcoin Address:**  
 `bc1q3smxjtjesh3km3rl0y89nyg964esdjkkmtwyhm`  
 
 ### Ethereum (ETH):
-![Ethereum Icon](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgMTAwIDEwMCI+CiAgPGNpcmNsZSBjeD0iNTAiIGN5PSI1MCIgcj0iNDUiIGZpbGw9IiM2MjdFRUEiLz4KICA8dGV4dCB4PSI1MCUiIHk9IjUwJSIgZG9taW5hbnQtYmFzZWxpbmU9Im1pZGRsZSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSI0MCIgZmlsbD0iI2ZmZmZmZiIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIj4KICAgIM6DCiAgPC90ZXh0Pgo8L3N2Zz4=) **Ethereum Address:**  
+**Ethereum Address:**  
 `0x891c40D9ac520DC6c8827eDD744ee15c472e88Ff`  
 
 ### USDT (ERC-20):
-![USDT Icon](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgMTAwIDEwMCI+CiAgPGNpcmNsZSBjeD0iNTAiIGN5PSI1MCIgcj0iNDUiIGZpbGw9IiMyNkExN0IiLz4KICA8dGV4dCB4PSI1MCUiIHk9IjUwJSIgZG9taW5hbnQtYmFzZWxpbmU9Im1pZGRsZSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSI0MCIgZmlsbD0iI2ZmZmZmZiIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIj4KICAgICQKICA8L3RleHQ+Cjwvc3ZnPg==) **USDT Address:**  
+**USDT Address:**  
 `0x891c40D9ac520DC6c8827eDD744ee15c472e88Ff`  
 
 💖 **Thank you for your support!**
