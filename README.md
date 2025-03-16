@@ -93,8 +93,8 @@ If you find this project useful or inspiring, consider supporting me with a dona
 **Ethereum Address:**  
 `0x891c40D9ac520DC6c8827eDD744ee15c472e88Ff`  
 
-### USDT (ERC-20):
+### USDT (TRC-20):
 **USDT Address:**  
-`0x891c40D9ac520DC6c8827eDD744ee15c472e88Ff`  
+`TJriJCkKnG8d6dh1tejmz79JtUvnNoRirc` 
 
 💖 **Thank you for your support!**
